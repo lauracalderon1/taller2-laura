@@ -1,3 +1,4 @@
 def achivo_prubea():
     a="Hola"
-    return a
+    b="chao"
+    return a,b
